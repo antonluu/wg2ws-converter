@@ -32,7 +32,7 @@ This PowerShell script enhances WireGuard configuration files for use with WireS
 - PowerShell 5.1 or later
 - Administrator privileges (required for modifying network routes)
 - Existing WireGuard configuration file
-- WireSock client installed on the system
+- WireSock client installed on the system (https://www.wiresock.net/)
 
 ## Limitations
 
